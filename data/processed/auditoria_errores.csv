@@ -1,0 +1,166 @@
+orden_id,fecha_orden,cliente_id,ciudad,categoria,producto,cantidad,precio_unitario,descuento,costo_envio,metodo_pago,estado_orden,tiempo_entrega_min,repartidor_id,calificacion,motivo_descarte
+ORD-001829,12/02/2026,CLI-0205,León,Supermercado ,Detergente Líquido 3L,4,-197.96,0.2,0.00,Tarjeta Crédito,En camino,108,REP-145,,precio_unitario_no_positivo
+ORD-000924,27/06/2026,CLI-0569,Mérida,SALUD Y BELLEZA,Protector Solar FPS 50,1,437.25,0.25,45.00,Billetera Digital,Cancelado,,REP-155,,fila_duplicada
+ORD-004429,2026-11-21,CLI-1360,Ciudad de México,Moda,Mochila Impermeable,6,703.81,0.15,0.00,Billetera Digital,Devuelto,107,REP-141,,fila_duplicada
+ORD-000913,2025-12-09,CLI-1484,Guadalajara,Deportes,Balón de Fútbol,-4,752.66,,45.00,Tarjeta Débito,Entregado,28,REP-155,2,cantidad_no_positiva
+ORD-004172,2026-02-16,CLI-0781,Monterrey, deportes,Cuerda para Saltar,2,163.03,0.15,0.00,Transferencia,En camino,54,REP-097,,fila_duplicada
+ORD-000878,2025-12-26,CLI-0653,Tijuana,Supermercado,Pack Agua Mineral 12u,4,102.60,0.2,79.00,Tarjeta Crédito,Entregado,,REP-146,1,fila_duplicada
+ORD-003907,08/08/2026,CLI-0221,León,Supermercado,Pack Agua Mineral 12u,1,159.05,0.0,45.00,Tarjeta Crédito,Entregado,,REP-023,4,fila_duplicada
+ORD-004468,2026-07-24,CLI-1026,Puebla,Deportes,Botella Térmica 1L,-4,240.20,0.25,29.00,Tarjeta Crédito,Entregado,32,REP-051,3,cantidad_no_positiva
+ORD-000768,2026-03-12,CLI-1280,Monterrey,Moda,Playera Básica Algodón,-5,-297.07,0.05,79.00,Transferencia,Entregado,21,REP-107,2,cantidad_no_positiva|precio_unitario_no_positivo
+ORD-001144,2025-12-21,CLI-0472,Monterrey,Salud y Belleza,Cepillo Eléctrico,-5,1330.95,0.0,0.00,Tarjeta Crédito,Entregado,19,REP-178,2,cantidad_no_positiva
+ORD-002223,25/10/2026,CLI-1343,Ciudad de México,Hogar,Cafetera de Goteo,2,878.08,0.0,45.00,Tarjeta Crédito,Entregado,,REP-143,4,fila_duplicada
+ORD-003254,2026-09-21,CLI-1313,Mérida,Salud y Belleza,Shampoo Reparador 400ml,6,209.76,,59.00,Tarjeta Débito,Cancelado,,REP-082,,fila_duplicada
+ORD-003113,2026-06-22,CLI-0630,Querétaro,Hogar,Cafetera de Goteo,1,1002.95,0.25,59.00,Billetera Digital,En camino,78,REP-125,,fila_duplicada
+ORD-003800,2026-10-25,CLI-0091,Tijuana,Deportes,Bandas de Resistencia,3,407.02,0.0,0.00,Billetera Digital,Entregado,20,REP-031,2,fila_duplicada
+ORD-001792,2026-01-10,CLI-0661,Monterrey,Salud y Belleza,Protector Solar FPS 50,-6,275.96,0.25,0.00,Tarjeta Crédito,Entregado,,REP-150,2,cantidad_no_positiva
+ORD-001038,26/11/2025,CLI-1032,Puebla,SUPERMERCADO,Aceite de Oliva 750ml,5,238.16,0.1,79.00,Efectivo,Entregado,32,REP-007,4,fila_duplicada
+ORD-001887,2026-04-14,CLI-0715,Mérida,Supermercado,Aceite de Oliva 750ml,6,290.10,0.0,29.00,Billetera Digital,Devuelto,89,REP-040,,fila_duplicada
+ORD-004612,2025-12-11,CLI-1016,Guadalajara,Salud y Belleza,Vitaminas Complejo B,3,434.28,0.05,45.00,Efectivo,Cancelado,76,REP-160,,fila_duplicada
+ORD-004661,2026-07-25,CLI-0382,Ciudad de México,Hogar ,Lámpara LED Escritorio,1,300.81,0.15,45.00,Efectivo,Entregado,80,REP-004,1,fila_duplicada
+ORD-000219,2026-08-24,CLI-0294,Tijuana,Deportes,Balón de Fútbol,1,816.38,0.0,29.00,Tarjeta Crédito,Entregado,90,REP-125,4,fila_duplicada
+ORD-002770,2026-11-04,CLI-1051,Ciudad de México,Moda,Gorra Deportiva,4,174.66,,59.00,Tarjeta Débito,Entregado,59,REP-025,2,fila_duplicada
+ORD-002205,2026-11-02,CLI-0968,Ciudad de México,Supermercado,Aceite de Oliva 750ml,3,229.29,0.25,0.00,Transferencia,En camino,51,REP-013,,fila_duplicada
+ORD-000261,2026-07-31,CLI-1061,Tijuana,Deportes,Botella Térmica 1L,-1,-298.77,0.0,59.00,Tarjeta Crédito,Entregado,23,REP-011,2,cantidad_no_positiva|precio_unitario_no_positivo
+ORD-000840,2026-04-08,CLI-0528,Ciudad de México,Electrónica,Cargador Rápido USB-C,-2,-371.02,0.0,0.00,Billetera Digital,Entregado,30,REP-016,5,cantidad_no_positiva|precio_unitario_no_positivo
+ORD-001472,14/06/2026,CLI-1010,Querétaro,Salud y Belleza,Crema Hidratante Facial,5,503.81,0.0,45.00,Efectivo,Devuelto,62,REP-162,,fila_duplicada
+ORD-000573,2026-01-15,CLI-1130,Mérida,Moda,Gorra Deportiva,2,242.68,0.0,29.00,Efectivo,Entregado,104,REP-003,5,fila_duplicada
+ORD-001772,2026-08-09,CLI-1141,Puebla,Supermercado,Aceite de Oliva 750ml,1,190.73,,59.00,Transferencia,Entregado,110,REP-088,2,fila_duplicada
+ORD-000095,2026-01-05,CLI-1235,Mérida, Deportes ,Balón de Fútbol,2,630.92,0.0,45.00,Transferencia,Entregado,57,REP-011,4,fila_duplicada
+ORD-002830,2026-07-20,CLI-1380,Querétaro,Hogar,Licuadora 600W,3,1699.07,0.0,79.00,Transferencia,Entregado,102,REP-089,2,fila_duplicada
+ORD-001141,2026-08-15,CLI-1081,Monterrey,Supermercado,Detergente Líquido 3L,5,232.95,0.15,79.00,Tarjeta Crédito,En camino,93,REP-079,,fila_duplicada
+ORD-003139,2026-08-01,CLI-1396,León, deportes,Balón de Fútbol,1,363.85,0.05,59.00,Billetera Digital,Entregado,95,REP-075,2,fila_duplicada
+ORD-000546,04/07/2026,CLI-1162,Puebla, deportes,Bandas de Resistencia,3,245.92,0.1,29.00,Tarjeta Débito,Entregado,32,REP-067,4,fila_duplicada
+ORD-001984,2026-06-29,CLI-0779,Ciudad de México,moda,Gorra Deportiva,3,263.93,0.0,79.00,Efectivo,En camino,61,REP-172,,fila_duplicada
+ORD-004153,2026-09-17,CLI-0446,Monterrey,Deportes,Botella Térmica 1L,1,229.18,0.0,79.00,Efectivo,Cancelado,33,REP-130,,fila_duplicada
+ORD-001347,11/09/2026,CLI-0114,Querétaro,Moda,Sudadera con Capucha,6,1147.03,0.0,0.00,Tarjeta Crédito,Entregado,40,REP-022,2,fila_duplicada
+ORD-004838,2026-11-23,CLI-0906,Guadalajara,  electrónica  ,Cargador Rápido USB-C,2,-504.30,0.05,29.00,Tarjeta Débito,En camino,107,REP-166,,precio_unitario_no_positivo
+ORD-000266,2026-10-30,CLI-0842,Monterrey,Deportes,Tapete de Yoga,1,359.63,0.1,29.00,Billetera Digital,Devuelto,46,REP-169,,fila_duplicada
+ORD-003728,2025-12-24,CLI-1068,Querétaro,deportes,Tapete de Yoga,4,663.49,0.05,29.00,Transferencia,Cancelado,,REP-113,,fila_duplicada
+ORD-004843,2026-10-01,CLI-0848,Ciudad de México, Moda ,Gorra Deportiva,2,315.34,0.25,45.00,Tarjeta Débito,Cancelado,,REP-001,,fila_duplicada
+ORD-004662,2026-08-31,CLI-1241,Querétaro,DEPORTES ,Tapete de Yoga,5,526.30,0.0,45.00,Efectivo,Cancelado,,REP-170,,fila_duplicada
+ORD-002457,2026-06-12,CLI-0627,Guadalajara, Electrónica,Audífonos Bluetooth,4,1032.57,0.0,79.00,Efectivo,En camino,58,REP-117,,fila_duplicada
+ORD-002290,2025-12-18,CLI-0507,León, Electrónica,Teclado Mecánico,1,1623.02,0.0,45.00,Billetera Digital,Devuelto,48,REP-021,,fila_duplicada
+ORD-003693,2026-05-14,CLI-0994,Puebla,Salud y Belleza,Crema Hidratante Facial,4,402.46,0.0,59.00,Efectivo,En camino,103,REP-021,,fila_duplicada
+ORD-002032,19/07/2026,CLI-0029,Puebla,Salud y Belleza,Shampoo Reparador 400ml,3,188.43,0.15,59.00,Tarjeta Crédito,Entregado,109,REP-152,1,fila_duplicada
+ORD-004412,2026-06-26,CLI-1137,Guadalajara,Moda,Mochila Impermeable,5,788.59,0.25,45.00,Tarjeta Débito,En camino,56,REP-071,,fila_duplicada
+ORD-000054,2026-06-10,CLI-1349,Mérida,MoDa,Tenis Urbanos,1,1148.18,0.15,0.00,Billetera Digital,Entregado,55,REP-128,1,fila_duplicada
+ORD-002597,2026-04-08,CLI-0866,León,Supermercado,Detergente Líquido 3L,5,264.95,,29.00,Tarjeta Débito,Cancelado,,REP-009,,fila_duplicada
+ORD-004188,2026-06-17,CLI-1172,Guadalajara,SUPERMERCADO,Café Molido 500g,6,133.76,0.15,0.00,Billetera Digital,En camino,112,REP-151,,fila_duplicada
+ORD-002799,2026-07-24,CLI-0307,Puebla,HOGAR,Juego de Sábanas,5,1011.31,0.0,45.00,Tarjeta Débito,Entregado,39,REP-025,3,fila_duplicada
+ORD-000657,13/01/2026,CLI-0143,Monterrey, Moda ,Playera Básica Algodón,6,370.41,0.25,29.00,Tarjeta Crédito,Cancelado,,REP-171,,fila_duplicada
+ORD-004744,26/05/2026,CLI-0103,Mérida,Supermercado,Aceite de Oliva 750ml,5,194.20,0.2,29.00,Tarjeta Débito,Cancelado,36,REP-004,,fila_duplicada
+ORD-000005,30/07/2026,CLI-0867,León,Supermercado ,Cereal Integral 600g,4,128.17,0.0,29.00,Tarjeta Crédito,Entregado,76,REP-149,3,fila_duplicada
+ORD-002181,23/09/2026,CLI-0434,Mérida, Moda ,Sudadera con Capucha,4,947.06,0.0,0.00,Billetera Digital,Cancelado,,REP-155,,fila_duplicada
+ORD-001806,2026-01-09,CLI-0695,León,  hogar ,Juego de Sábanas,3,820.32,0.2,0.00,Transferencia,Entregado,19,REP-180,2,fila_duplicada
+ORD-000844,2026-06-13,CLI-0386,Mérida, deportes,Cuerda para Saltar,1,287.12,,59.00,Billetera Digital,Entregado,48,REP-026,4,fila_duplicada
+ORD-001152,2026-06-03,CLI-0048,Puebla, moda,Playera Básica Algodón,4,242.38,0.0,29.00,Transferencia,En camino,66,REP-180,,fila_duplicada
+ORD-003284,2026-04-11,CLI-1373,Querétaro,Moda,Playera Básica Algodón,2,315.24,0.0,0.00,Efectivo,En camino,66,REP-051,,fila_duplicada
+ORD-002975,2026-11-19,CLI-0600,Puebla, Deportes ,Tapete de Yoga,6,481.04,0.05,45.00,Tarjeta Débito,Cancelado,87,REP-018,,fila_duplicada
+ORD-002669,24/08/2026,CLI-0931,Guadalajara,Hogar,Licuadora 600W,2,1028.22,0.0,79.00,Billetera Digital,En camino,86,REP-115,,fila_duplicada
+ORD-001750,2026-10-16,CLI-1165,Mérida,Deportes,Tapete de Yoga,3,686.82,0.2,0.00,Billetera Digital,Devuelto,97,REP-050,,fila_duplicada
+ORD-004537,2026-02-01,CLI-1390,León,Supermercado,Detergente Líquido 3L,1,156.01,0.0,0.00,Tarjeta Débito,Entregado,36,REP-040,2,fila_duplicada
+ORD-003772,21/10/2026,CLI-0554,Puebla,Moda,Gorra Deportiva,4,171.01,0.1,0.00,Tarjeta Débito,Entregado,35,REP-133,4,fila_duplicada
+ORD-001319,2026-09-02,CLI-0973,León,Supermercado ,Aceite de Oliva 750ml,6,294.53,0.0,0.00,Tarjeta Débito,Cancelado,,REP-003,,fila_duplicada
+ORD-004479,2026-08-29,CLI-0179,Querétaro,Hogar,Cafetera de Goteo,5,744.24,0.05,29.00,Tarjeta Crédito,Entregado,104,REP-090,1,fila_duplicada
+ORD-001638,2026-09-28,CLI-1207,Ciudad de México,Hogar,Licuadora 600W,2,1711.02,,79.00,Billetera Digital,Entregado,,REP-061,1,fila_duplicada
+ORD-003126,13/12/2025,CLI-1275,Puebla,Hogar,Lámpara LED Escritorio,2,815.40,0.2,0.00,Efectivo,En camino,110,REP-001,,fila_duplicada
+ORD-001972,2026-05-16,CLI-0921,Querétaro, Electrónica,Teclado Mecánico,5,896.90,0.0,29.00,Transferencia,Entregado,34,REP-173,2,fila_duplicada
+ORD-000359,2026-08-13,CLI-1021,Puebla,Hogar,Licuadora 600W,4,1168.59,0.1,45.00,Transferencia,En camino,,REP-140,,fila_duplicada
+ORD-002164,2026-01-16,CLI-0712,Ciudad de México,Moda,Mochila Impermeable,2,495.64,0.2,59.00,Efectivo,En camino,85,REP-161,,fila_duplicada
+ORD-001410,2025-11-28,CLI-0820,Querétaro,Hogar,Licuadora 600W,4,1905.66,0.0,59.00,Tarjeta Crédito,Entregado,22,REP-122,3,fila_duplicada
+ORD-002289,2026-03-31,CLI-1098,Querétaro,Moda,Playera Básica Algodón,4,288.13,0.15,79.00,Transferencia,En camino,111,REP-113,,fila_duplicada
+ORD-004577,15/03/2026,CLI-0365,Guadalajara,Salud y Belleza,Vitaminas Complejo B,1,387.86,,0.00,Transferencia,Cancelado,,REP-076,,fila_duplicada
+ORD-003457,2026-08-20,CLI-1176,Mérida,Electrónica,Smartwatch Deportivo,-5,1935.71,0.25,29.00,Efectivo,Entregado,86,REP-066,4,cantidad_no_positiva
+ORD-004103,08/05/2026,CLI-0493,León, deportes,Cuerda para Saltar,1,246.29,0.1,0.00,Transferencia,Entregado,73,REP-066,5,fila_duplicada
+ORD-002071,30/08/2026,CLI-1392,Puebla,DEPORTES ,Tapete de Yoga,1,566.92,0.2,45.00,Efectivo,Cancelado,,REP-150,,fila_duplicada
+ORD-000649,2026-04-10,CLI-0246,Monterrey,Moda,Playera Básica Algodón,5,419.57,0.2,29.00,Billetera Digital,Entregado,92,REP-106,4,fila_duplicada
+ORD-000027,25/10/2026,CLI-0970,Guadalajara,Deportes,Tapete de Yoga,1,696.82,0.0,29.00,Transferencia,En camino,34,REP-180,,fila_duplicada
+ORD-000588,2026-03-14,CLI-0624,Guadalajara, Electrónica,Mouse Inalámbrico,3,888.68,0.0,79.00,Tarjeta Débito,Entregado,64,REP-085,3,fila_duplicada
+ORD-004358,2026-02-06,CLI-0359,Mérida,Moda,Playera Básica Algodón,1,312.37,0.0,45.00,Tarjeta Débito,En camino,21,REP-039,,fila_duplicada
+ORD-000705,01/10/2026,CLI-1381,Monterrey,Deportes,Balón de Fútbol,4,450.97,0.0,45.00,Efectivo,En camino,70,REP-081,,fila_duplicada
+ORD-001030,15/09/2026,CLI-1225,Mérida,Moda,Sudadera con Capucha,1,1030.28,0.05,79.00,Transferencia,En camino,69,REP-169,,fila_duplicada
+ORD-003995,2026-10-12,CLI-0401,Mérida,Deportes,Tapete de Yoga,3,666.28,0.15,79.00,Billetera Digital,En camino,,REP-106,,fila_duplicada
+ORD-002169,2025-12-16,CLI-0589,Tijuana,Electrónica,Cargador Rápido USB-C,1,476.00,0.0,29.00,Transferencia,Entregado,93,REP-029,4,fila_duplicada
+ORD-000478,27/07/2026,CLI-0541,León,Supermercado,Aceite de Oliva 750ml,1,226.47,0.15,59.00,Transferencia,En camino,68,REP-107,,fila_duplicada
+ORD-002800,2026-09-13,CLI-0014,León,DEPORTES ,Botella Térmica 1L,6,393.72,0.1,45.00,Tarjeta Crédito,Entregado,39,REP-004,5,fila_duplicada
+ORD-003848,2026-09-17,CLI-1423,Tijuana, Deportes ,Tapete de Yoga,1,666.65,0.1,45.00,Transferencia,Entregado,38,REP-158,3,fila_duplicada
+ORD-004056,2026-04-25,CLI-1238,Guadalajara,Deportes,Balón de Fútbol,3,616.22,0.0,0.00,Billetera Digital,Entregado,90,REP-151,3,fila_duplicada
+ORD-001361,26/06/2026,CLI-0105,Querétaro,Supermercado ,Detergente Líquido 3L,6,144.69,0.1,59.00,Billetera Digital,Entregado,63,REP-085,5,fila_duplicada
+ORD-004406,23/11/2026,CLI-1261,Querétaro,Hogar,Cafetera de Goteo,4,963.03,0.2,29.00,Efectivo,Entregado,81,REP-106,2,fila_duplicada
+ORD-000798,2026-05-15,CLI-0325,Guadalajara,Moda,Gorra Deportiva,6,179.64,,59.00,Billetera Digital,En camino,86,REP-167,,fila_duplicada
+ORD-002590,03/02/2026,CLI-0640,Monterrey,Supermercado,Cereal Integral 600g,2,121.74,0.1,59.00,Tarjeta Crédito,Entregado,59,REP-125,2,fila_duplicada
+ORD-001179,21/04/2026,CLI-0449,Puebla,Supermercado,Aceite de Oliva 750ml,5,205.86,0.2,0.00,Tarjeta Crédito,Entregado,91,REP-004,2,fila_duplicada
+ORD-000245,2026-04-25,CLI-0878,Querétaro,Deportes,Botella Térmica 1L,6,-246.81,0.2,29.00,Tarjeta Débito,En camino,23,REP-150,,precio_unitario_no_positivo
+ORD-000713,2026-07-11,CLI-1011,Querétaro,Salud y belleza ,Vitaminas Complejo B,4,-259.63,0.2,45.00,Tarjeta Crédito,Devuelto,73,REP-091,,precio_unitario_no_positivo
+ORD-002668,2026-09-08,CLI-1365,León,Deportes,Bandas de Resistencia,5,338.30,,45.00,Billetera Digital,Entregado,79,REP-121,4,fila_duplicada
+ORD-000389,2026-07-29,CLI-0447,Monterrey,Salud y Belleza,Vitaminas Complejo B,6,401.75,0.0,29.00,Tarjeta Crédito,Entregado,19,REP-005,4,fila_duplicada
+ORD-000205,2025-12-17,CLI-1490,Guadalajara,hOgAr,Juego de Sábanas,-6,759.61,0.2,59.00,Billetera Digital,Entregado,51,REP-084,3,cantidad_no_positiva
+ORD-003045,29/10/2026,CLI-0826,Ciudad de México,Moda,Mochila Impermeable,1,1160.54,0.0,79.00,Transferencia,Entregado,72,REP-012,4,fila_duplicada
+ORD-000379,01/09/2026,CLI-0345,Tijuana,Deportes,Cuerda para Saltar,2,308.13,0.05,59.00,Tarjeta Débito,Entregado,36,REP-149,4,fila_duplicada
+ORD-004114,09/03/2026,CLI-0023,Tijuana,Hogar,Licuadora 600W,3,1350.45,0.0,29.00,Tarjeta Crédito,Entregado,42,REP-020,2,fila_duplicada
+ORD-002532,2026-10-15,CLI-1476,Mérida,Electrónica,Mouse Inalámbrico,5,745.40,0.05,29.00,Billetera Digital,Entregado,79,REP-077,3,fila_duplicada
+ORD-004348,2026-03-27,CLI-0892,Ciudad de México,Hogar,Licuadora 600W,4,1730.67,,79.00,Tarjeta Crédito,Entregado,95,REP-069,4,fila_duplicada
+ORD-003165,2026-02-06,CLI-1321,Mérida,Supermercado,Cereal Integral 600g,3,71.24,0.15,79.00,Transferencia,Entregado,,REP-081,1,fila_duplicada
+ORD-002953,2025-11-27,CLI-1218,Querétaro,Electrónica,Teclado Mecánico,6,2236.89,0.0,29.00,Billetera Digital,En camino,106,REP-105,,fila_duplicada
+ORD-001877,2026-07-18,CLI-0557,Tijuana,Moda,Gorra Deportiva,1,165.66,0.25,29.00,Transferencia,Devuelto,67,REP-084,,fila_duplicada
+ORD-002417,2026-09-20,CLI-1027,León,Supermercado,Café Molido 500g,1,215.73,0.2,59.00,Tarjeta Crédito,Entregado,,REP-033,4,fila_duplicada
+ORD-001809,2026-03-20,CLI-0164,León,Supermercado,Pack Agua Mineral 12u,6,175.07,0.25,0.00,Tarjeta Débito,Cancelado,47,REP-058,,fila_duplicada
+ORD-001815,27/09/2026,CLI-1123,León, Deportes ,Cuerda para Saltar,6,297.92,0.0,59.00,Transferencia,En camino,70,REP-113,,fila_duplicada
+ORD-004518,2026-11-12,CLI-0832,Tijuana,HOGAR,Cafetera de Goteo,1,1044.67,0.25,79.00,Tarjeta Crédito,Devuelto,63,REP-121,,fila_duplicada
+ORD-000833,2026-09-04,CLI-1448,Tijuana,Supermercado,Detergente Líquido 3L,2,187.73,0.15,45.00,Transferencia,Entregado,67,REP-095,3,fila_duplicada
+ORD-000905,2026-10-29,CLI-0823,Tijuana,Hogar,Lámpara LED Escritorio,6,582.04,0.2,45.00,Efectivo,Cancelado,,REP-038,,fila_duplicada
+ORD-004432,10/01/2026,CLI-1258,Mérida,Supermercado,Pack Agua Mineral 12u,1,188.44,0.0,29.00,Efectivo,Entregado,37,REP-135,5,fila_duplicada
+ORD-003730,2026-01-31,CLI-0870,Mérida,Hogar ,Lámpara LED Escritorio,4,455.43,0.25,29.00,Tarjeta Débito,Entregado,40,REP-131,1,fila_duplicada
+ORD-001916,2026-06-22,CLI-0763,Monterrey,Electrónica,Smartwatch Deportivo,6,2222.40,0.25,29.00,Tarjeta Débito,Entregado,38,REP-170,3,fila_duplicada
+ORD-002007,2026-08-20,CLI-0406,Puebla,ELECTRÓNICA ,Mouse Inalámbrico,-1,-668.60,0.0,29.00,Tarjeta Crédito,Entregado,89,REP-104,4,cantidad_no_positiva|precio_unitario_no_positivo
+ORD-001304,2026-07-01,CLI-1308,Ciudad de México,MoDa,Tenis Urbanos,2,1579.84,0.15,45.00,Transferencia,Entregado,110,REP-138,2,fila_duplicada
+ORD-000524,2026-08-22,CLI-0711,Querétaro,Salud y Belleza,Crema Hidratante Facial,5,570.49,0.15,29.00,Transferencia,Entregado,54,REP-064,4,fila_duplicada
+ORD-001332,2026-04-13,CLI-0218,Guadalajara,Electrónica,Cargador Rápido USB-C,6,374.41,0.0,79.00,Billetera Digital,Entregado,,REP-024,1,fila_duplicada
+ORD-001059,25/04/2026,CLI-0802,Puebla,Moda,Gorra Deportiva,2,324.83,0.15,29.00,Billetera Digital,Cancelado,,REP-147,,fila_duplicada
+ORD-003125,2026-06-06,CLI-0859,Ciudad de México,Supermercado,Aceite de Oliva 750ml,6,171.11,0.2,59.00,Tarjeta Débito,Entregado,83,REP-113,4,fila_duplicada
+ORD-003299,2026-10-23,CLI-0009,León,Supermercado,Café Molido 500g,5,147.59,0.05,45.00,Transferencia,Entregado,43,REP-126,1,fila_duplicada
+ORD-000946,16/06/2026,CLI-0761,Puebla,Deportes,Bandas de Resistencia,1,460.15,0.05,59.00,Tarjeta Crédito,Entregado,109,REP-063,4,fila_duplicada
+ORD-000749,2025-12-12,CLI-0774,Ciudad de México,Supermercado,Pack Agua Mineral 12u,5,157.54,0.0,0.00,Efectivo,Entregado,65,REP-003,5,fila_duplicada
+ORD-000462,15/05/2026,CLI-1221,Querétaro,  supermercado ,Café Molido 500g,6,220.19,0.1,59.00,Billetera Digital,Devuelto,92,REP-152,,fila_duplicada
+ORD-004795,2025-12-24,CLI-0972,Guadalajara,Supermercado ,Detergente Líquido 3L,6,177.69,,79.00,Efectivo,Entregado,39,REP-003,4,fila_duplicada
+ORD-004377,2025-12-25,CLI-1248,Mérida,ELECTRÓNICA ,Cargador Rápido USB-C,3,528.72,0.15,45.00,Tarjeta Débito,Entregado,95,REP-084,3,fila_duplicada
+ORD-001637,2026-09-08,CLI-1321,Puebla,Salud y Belleza,Protector Solar FPS 50,3,298.37,0.0,45.00,Transferencia,Entregado,43,REP-168,1,fila_duplicada
+ORD-001918,07/11/2026,CLI-1038,Mérida,Hogar,Lámpara LED Escritorio,3,314.76,0.0,59.00,Transferencia,Entregado,59,REP-140,3,fila_duplicada
+ORD-001341,2026-04-02,CLI-0652,Guadalajara,Deportes,Botella Térmica 1L,1,480.28,0.1,79.00,Efectivo,Entregado,84,REP-178,1,fila_duplicada
+ORD-002183,2026-06-09,CLI-0872,Monterrey,Deportes,Balón de Fútbol,1,648.63,0.25,29.00,Transferencia,Entregado,100,REP-029,3,fila_duplicada
+ORD-004016,2026-08-28,CLI-1150,León,Deportes,Cuerda para Saltar,2,357.60,0.15,0.00,Efectivo,Devuelto,18,REP-171,,fila_duplicada
+ORD-001261,19/01/2026,CLI-0132,Guadalajara,HOGAR,Juego de Sábanas,5,1013.02,,0.00,Tarjeta Débito,Entregado,46,REP-020,2,fila_duplicada
+ORD-000160,2026-02-27,CLI-0997,Monterrey,Moda,Playera Básica Algodón,2,338.14,0.0,59.00,Efectivo,En camino,41,REP-036,,fila_duplicada
+ORD-003001,2026-11-18,CLI-1317,León,deportes,Botella Térmica 1L,1,320.64,0.2,29.00,Efectivo,En camino,43,REP-142,,fila_duplicada
+ORD-004389,2026-10-25,CLI-0391,Tijuana,Deportes,Cuerda para Saltar,4,203.93,0.0,59.00,Tarjeta Débito,Entregado,74,REP-025,4,fila_duplicada
+ORD-001737,2025-12-04,CLI-0113,Tijuana, supermercado,Pack Agua Mineral 12u,4,159.64,0.1,79.00,Transferencia,Entregado,26,REP-097,3,fila_duplicada
+ORD-002986,16/10/2026,CLI-0449,Tijuana,Supermercado,Pack Agua Mineral 12u,3,99.89,0.25,45.00,Transferencia,Entregado,103,REP-062,2,fila_duplicada
+ORD-004613,15/06/2026,CLI-0577,Guadalajara,Moda,Gorra Deportiva,1,387.96,0.1,29.00,Transferencia,Entregado,28,REP-065,5,fila_duplicada
+ORD-002017,2026-02-11,CLI-1407,Monterrey,Supermercado,Aceite de Oliva 750ml,2,332.16,0.1,59.00,Tarjeta Débito,Devuelto,52,REP-100,,fila_duplicada
+ORD-001725,2026-03-05,CLI-1225,Mérida,Hogar,Cafetera de Goteo,2,816.42,0.0,29.00,Tarjeta Débito,Cancelado,,REP-027,,fila_duplicada
+ORD-003575,2026-10-05,CLI-0350,Querétaro, hogar,Lámpara LED Escritorio,6,643.75,0.0,59.00,Transferencia,Entregado,47,REP-165,2,fila_duplicada
+ORD-003121,2026-07-17,CLI-0633,Tijuana,Supermercado,Detergente Líquido 3L,1,231.34,0.2,29.00,Tarjeta Crédito,Entregado,74,REP-006,1,fila_duplicada
+ORD-003777,2026-03-08,CLI-0660,Ciudad de México,Supermercado,Detergente Líquido 3L,5,131.20,0.0,59.00,Tarjeta Crédito,Entregado,,REP-177,4,fila_duplicada
+ORD-002199,06/03/2026,CLI-1067,Tijuana,Salud y Belleza,Shampoo Reparador 400ml,1,189.18,0.25,59.00,Billetera Digital,Devuelto,18,REP-070,,fila_duplicada
+ORD-002923,2026-10-08,CLI-0824,Tijuana, salud y belleza,Cepillo Eléctrico,6,687.87,0.1,79.00,Tarjeta Crédito,En camino,109,REP-074,,fila_duplicada
+ORD-003449,2026-08-19,CLI-0248,Ciudad de México,  electrónica  ,Mouse Inalámbrico,6,857.58,0.25,0.00,Tarjeta Débito,Entregado,85,REP-049,1,fila_duplicada
+ORD-002383,2026-10-16,CLI-1279,Mérida,Supermercado,Detergente Líquido 3L,5,168.33,0.25,79.00,Billetera Digital,Entregado,38,REP-158,2,fila_duplicada
+ORD-002178,2026-01-26,CLI-0948,Ciudad de México,Salud y Belleza,Shampoo Reparador 400ml,3,159.66,0.0,45.00,Transferencia,Cancelado,,REP-016,,fila_duplicada
+ORD-001584,2026-05-14,CLI-1116,Querétaro, Electrónica,Mouse Inalámbrico,3,893.03,0.15,59.00,Billetera Digital,En camino,20,REP-111,,fila_duplicada
+ORD-000764,2026-04-30,CLI-0895,Querétaro,Salud y Belleza,Shampoo Reparador 400ml,5,265.22,0.25,29.00,Efectivo,Entregado,78,REP-129,2,fila_duplicada
+ORD-003523,2026-08-08,CLI-1484,Monterrey,Supermercado,Pack Agua Mineral 12u,4,126.21,0.0,59.00,Tarjeta Crédito,Entregado,115,REP-171,2,fila_duplicada
+ORD-003476,2026-07-30,CLI-0813,Querétaro,Supermercado,Aceite de Oliva 750ml,2,168.54,0.0,29.00,Tarjeta Débito,Entregado,55,REP-017,3,fila_duplicada
+ORD-004803,22/02/2026,CLI-0109,Ciudad de México,Moda,Sudadera con Capucha,4,481.77,0.2,79.00,Billetera Digital,Entregado,98,REP-067,4,fila_duplicada
+ORD-000921,2026-07-29,CLI-0146,Monterrey,Moda,Tenis Urbanos,2,1792.69,0.0,79.00,Tarjeta Débito,Entregado,88,REP-018,5,fila_duplicada
+ORD-002414,2026-01-05,CLI-0804,Querétaro,Hogar,Set de Contenedores,5,190.21,0.2,79.00,Tarjeta Crédito,Entregado,68,REP-167,2,fila_duplicada
+ORD-000570,27/08/2026,CLI-1347,Monterrey,Supermercado,Aceite de Oliva 750ml,6,291.88,0.2,29.00,Efectivo,Cancelado,,REP-112,,fila_duplicada
+ORD-001316,2025-12-18,CLI-0008,Monterrey,Supermercado ,Detergente Líquido 3L,4,166.42,0.2,79.00,Billetera Digital,Devuelto,106,REP-117,,fila_duplicada
+ORD-003472,2026-01-14,CLI-0741,Ciudad de México,Deportes,Bandas de Resistencia,3,288.37,0.1,59.00,Efectivo,Devuelto,22,REP-087,,fila_duplicada
+ORD-002254,2026-04-01,CLI-0155,Querétaro,  supermercado ,Café Molido 500g,-6,185.80,,59.00,Tarjeta Débito,Entregado,34,REP-094,2,cantidad_no_positiva
+ORD-001282,2026-03-03,CLI-1219,León, salud y belleza,Cepillo Eléctrico,1,790.19,0.25,79.00,Efectivo,En camino,97,REP-107,,fila_duplicada
+ORD-003076,2026-10-28,CLI-0628,Tijuana,Supermercado,Detergente Líquido 3L,3,207.26,0.0,29.00,Transferencia,Entregado,45,REP-121,3,fila_duplicada
+ORD-002978,2026-03-29,CLI-0351,Puebla,Supermercado,Detergente Líquido 3L,2,145.29,0.2,45.00,Efectivo,Entregado,57,REP-150,1,fila_duplicada
+ORD-002291,2026-05-03,CLI-0489,León,Deportes,Balón de Fútbol,3,432.28,0.0,0.00,Efectivo,Cancelado,66,REP-123,,fila_duplicada
+ORD-004547,2026-08-22,CLI-0911,Mérida, hogar,Juego de Sábanas,2,1114.55,0.0,59.00,Tarjeta Débito,Entregado,,REP-099,3,fila_duplicada
+ORD-002197,2026-07-18,CLI-0508,Guadalajara,SALUD Y BELLEZA,Protector Solar FPS 50,1,496.10,0.0,59.00,Efectivo,Entregado,44,REP-009,3,fila_duplicada
